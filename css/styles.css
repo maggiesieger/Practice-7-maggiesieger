@@ -70,7 +70,11 @@ nav ul {
     text-decoration: none;
 }
 
-.site-header, .hero, .people {
+.site-header, .hero, .people, .site-footer {
+    grid-column: span 2;
+}
+
+.records, .studio, .people {
     padding: 64px 32px;
 }
 
