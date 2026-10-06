@@ -3,7 +3,8 @@
     margin: 0;
     padding: 0;
 }
-body{
+
+body {
     background: #F4F1EA;
     color: #111111;
     font-family: 'work sans' , sans-serif;
@@ -40,4 +41,8 @@ nav ul {
     display: flex;
     gap: 32px;
     list-style: none;
+}
+
+.hero{
+    display: flex;
 }
